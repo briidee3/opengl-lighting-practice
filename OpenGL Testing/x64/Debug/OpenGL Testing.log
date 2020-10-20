@@ -1,0 +1,10 @@
+﻿  Window.cpp
+C:\Users\briid\source\repos\OpenGL Testing\OpenGL Testing\Window.cpp(195,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\briid\source\repos\OpenGL Testing\OpenGL Testing\Window.cpp(312,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\briid\source\repos\OpenGL Testing\OpenGL Testing\Window.cpp(313,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\briid\source\repos\OpenGL Testing\OpenGL Testing\Window.cpp(317,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\briid\source\repos\OpenGL Testing\OpenGL Testing\Window.cpp(318,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\briid\source\repos\OpenGL Testing\OpenGL Testing\Window.cpp(319,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\briid\source\repos\OpenGL Testing\OpenGL Testing\Window.cpp(320,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\briid\source\repos\OpenGL Testing\OpenGL Testing\Window.cpp(328,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  OpenGL Testing.vcxproj -> C:\Users\briid\source\repos\OpenGL Testing\x64\Debug\OpenGL Testing.exe
